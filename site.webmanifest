@@ -1,0 +1,39 @@
+https://lh3.googleusercontent.com/-f8QU7Gqyin4/Xe3chrGFjRI/AAAAAAAAEFc/t7tNSKHTsLcwoSAXRPPq9O71z29-n3yBwCNcBGAsYHQ/s1600/IMG_ORG_1575869535853.png{
+
+    "name": "Cara Seo Up To Date",
+
+    "short_name": "C.SEO.U2D",
+
+    "icons": [
+
+        {
+
+            "src": "https://lh3.googleusercontent.com/-f8QU7Gqyin4/Xe3chrGFjRI/AAAAAAAAEFc/t7tNSKHTsLcwoSAXRPPq9O71z29-n3yBwCNcBGAsYHQ/s1600/IMG_ORG_1575869535853.png",
+
+            "sizes": "192x192",
+
+            "type": "image/png"
+
+        },
+
+        {
+
+            "src": "https://lh3.googleusercontent.com/-f8QU7Gqyin4/Xe3chrGFjRI/AAAAAAAAEFc/t7tNSKHTsLcwoSAXRPPq9O71z29-n3yBwCNcBGAsYHQ/s1600/IMG_ORG_1575869535853.png",
+
+            "sizes": "512x512",
+
+            "type": "image/png"
+
+        }
+
+    ],
+
+    "theme_color": "#000000",
+
+    "background_color": "#000000",
+
+    "start_url": "https://caraseouptodate.blogspot.com/",
+
+    "display": "standalone"
+
+}
